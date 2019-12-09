@@ -28,7 +28,6 @@ def monopoly_with_third_tier
   	    :mortgage_value => "$100"
   	  }
   	}
-  	}
 end
 
 def monopoly_with_fourth_tier
